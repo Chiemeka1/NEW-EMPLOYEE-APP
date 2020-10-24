@@ -32,7 +32,7 @@ export default class ListEmployeeComponent extends Component{
                            <th>address</th>
                            <th>salary</th>
                            
-                           
+                           // write something
                        </tr>
                    </thead>
                    <tbody>
